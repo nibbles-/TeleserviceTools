@@ -1,10 +1,3 @@
-﻿/*
- * Cisco IP Communicator DeviceName Generator 
- * License: Free, Open, Do with as you will. But keep the credit.
- * Credit: Johan Åhman
- * Version: 0.0006
- */
-
 using System;
 
 namespace TeleserviceTools
